@@ -15,7 +15,7 @@ async function getBearerToken() {
         }
     };
     const headers = {
-        'api-key': '32med9l7q60vrplligp1a02nu91bxg4n',
+        'api-key': '',
         'Content-Type': 'application/json'
     };
     try {
