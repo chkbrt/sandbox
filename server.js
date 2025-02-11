@@ -9,9 +9,9 @@ async function getBearerToken() {
     const url = 'https://secure2.saashr.com/ta/rest/v1/login';
     const payload = {
         "credentials": {
-            "username": "apiuser",
-            "password": "1LoveAPIs!!@@##$$",
-            "company": "ACWA5431T"
+            "username": "",
+            "password": "",
+            "company": ""
         }
     };
     const headers = {
